@@ -35,22 +35,11 @@ lat	Latitude coordinate
 long	Longitude coordinate
 sqft_living15	Living room area in 2015(implies-- some renovations) This might or might not have affected the lotsize area
 sqft_lot15	LotSize area in 2015(implies-- some renovations)
-Assignment Scenario
+
+Assignment Scenario:
 You are a Data Analyst working at a Real Estate Investment Trust. The Trust will like to start investing in Residential real estate. You are tasked with determining the market price of a house given a set of features. You will analyze and predict housing prices using attributes or features such as square footage, number of bedrooms, number of floors, and so on.
 
-Guidelines for the Submission
-Copy the link to the notebook and paste it in IBM Watson Studio: https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/FinalModule_Coursera/House_Sales_in_King_Count_USA.ipynb
-
-Grading Information
-You will be required to submit a link to your notebook for peer grading.
-
-The main grading criteria will be:
-
-Have you reproduced the correct information using the functions?
-Have you created the appropriate graphs?
-Did you properly fit a regression model?
-Have you shared the link to your Notebook?
-You will not be judged on:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Your English language, including spelling or grammatical mistakes.
 The content of any text or image(s) or where a link is hyperlinked to.
